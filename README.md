@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Activity
 
-<details>
+<details open>
   <summary>📊 My GitHub Stats</summary>
   <br>
   <div align="center">
